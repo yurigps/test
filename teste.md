@@ -2,5 +2,5 @@
 
 Para rodar esse projeto, siga as instruções abaixo:
 ```
-Alguma coisa aqui
+node app.js
 ```
